@@ -11,4 +11,5 @@ Ad ve soyadı birleştir
 Kişiselleştirilmiş selamlama mesajı göster
 DUR
 ## Kaynakça: Programlama temelleri kitabı
+<img width="658" height="241" alt="image" src="https://github.com/user-attachments/assets/db9a07a3-7e37-4128-a623-7af3775bfd46" />
 
