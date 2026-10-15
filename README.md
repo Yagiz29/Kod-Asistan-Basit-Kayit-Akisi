@@ -5,8 +5,10 @@ Proje Yazarı: Yağız Mutlu
 ## Problem Senaryosu: Kod-Asistan projesinin kullanıcı yönetim modülü tasarlanacaktır. Asistanın kullanıcıya ismiyle hitap edebilmesi ve sistemi kişiselleştirebilmesi için kayıt aşamasında ad ve soyadı verilerinin ayrı ayrı alınması, arka planda birleştirilerek tek bir profil kimliği hâline getirilmesi gerekmektedir.
 # Projenin Kapsamı: Kod-Asistan Basit Kayıt Akışı
 BAŞLA
-İsim iste
-Metni birleştir
-Selamlama mesajı göster
+Adı iste
+Soyadı iste
+Ad ve soyadı birleştir
+Kişiselleştirilmiş selamlama mesajı göster
 DUR
+## Kaynakça: Programlama temelleri kitabı
 
