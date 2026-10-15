@@ -5,6 +5,7 @@ Proje Yazarı: Yağız Mutlu
 ## Problem Senaryosu: Kod-Asistan projesinin kullanıcı yönetim modülü tasarlanacaktır. Asistanın kullanıcıya ismiyle hitap edebilmesi ve sistemi kişiselleştirebilmesi için kayıt aşamasında ad ve soyadı verilerinin ayrı ayrı alınması, arka planda birleştirilerek tek bir profil kimliği hâline getirilmesi gerekmektedir.
 # Projenin Kapsami: Kod-Asistan Basit Kayıt Akışı
 <img width="668" height="259" alt="image" src="https://github.com/user-attachments/assets/88b43de0-2a3f-4a1f-8b93-c2c4eb89586f" />
+
 BAŞLA
 Adı iste
 Soyadı iste
